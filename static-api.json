@@ -1,5 +1,5 @@
 [
-  {"content": "\"Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle.\" - Christian D. Larson", cover: "background.jpg"},
-  {"content": "\"Success is not final, failure is not fatal: It is the courage to continue that counts.\"- Winston Churchill", conver: "background2.jpg"},
-  {"content": "\"The only limit to our realization of tomorrow will be our doubts of today.\" - Franklin D. Roosevelt", cover: "background2.jpg"}
+  {"content": "\"Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle.\" - Christian D. Larson", "cover": "background.jpg"},
+  {"content": "\"Success is not final, failure is not fatal: It is the courage to continue that counts.\"- Winston Churchill", "cover": "background2.jpg"},
+  {"content": "\"The only limit to our realization of tomorrow will be our doubts of today.\" - Franklin D. Roosevelt", "cover": "background2.jpg"}
 ]
